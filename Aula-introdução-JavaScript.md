@@ -18,7 +18,7 @@ var nome = "João";
 let idade = 25;
 const PI = 3.14;
 ```
-Faça o teste no [playcode](https://playcode.io/javascript)
+Copie o código e faça o teste no [playcode](https://playcode.io/javascript)
 
 ##  
 
@@ -30,7 +30,37 @@ let verdadeiro = true;
 let lista = [1, 2, 3, 4, 5];
 let pessoa = { nome: "Maria", idade: 30 };
 ```
-Faça o teste no [playcode](https://playcode.io/javascript)
+Copie o código e faça o teste no [playcode](https://playcode.io/javascript)
+
+##  
+
+**Operadores**: JavaScript suporta uma variedade de operadores, incluindo aritméticos, de comparação, lógicos e de atribuição. Por exemplo:
+```
+let soma = 10 + 5;
+let igualdade = (5 === 5); // true
+let eLogico = (true && false); // false
+let atribuicao = 10;
+atribuicao += 5; // atribuicao agora é 15
+```
+Copie o código e faça o teste no [playcode](https://playcode.io/javascript)
+
+##  
+
+**Estruturas de Controle**: JavaScript oferece estruturas de controle como if, else, switch, for, while e do-while para controlar o fluxo do programa. Por exemplo:
+```
+let idade = 18;
+
+if (idade >= 18) {
+    console.log("Você é maior de idade.");
+} else {
+    console.log("Você é menor de idade.");
+}
+
+for (let i = 0; i < 5; i++) {
+    console.log("Número: " + i);
+}
+```
+Copie o código e faça o teste no [playcode](https://playcode.io/javascript)
 
 ##  
 
