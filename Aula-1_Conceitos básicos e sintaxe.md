@@ -22,7 +22,6 @@ let idade = 25;
 const PI = 3.14;
 ```
 Copie o código e faça o teste no [compilador](https://onecompiler.com/javascript).
-<a href=“ https://onecompiler.com/javascript “> Compilador</a>
 
 ##  
 
