@@ -1,4 +1,4 @@
-##Introdução
+## Introdução
 
 JavaScript é uma linguagem de programação poderosa e versátil, amplamente utilizada no desenvolvimento web. Ela permite que você crie páginas interativas e dinâmicas, adicionando comportamentos aos elementos HTML, manipulando o conteúdo da página e interagindo com o usuário.
 Originalmente, JavaScript foi desenvolvido pela Netscape como uma linguagem de script para ser executada no navegador Netscape Navigator. Desde então, cresceu muito em popularidade e se tornou uma das linguagens de programação mais importantes da web.
