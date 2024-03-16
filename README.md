@@ -2,3 +2,5 @@
 
 # JAVASCRIPT-Minicurso
 Uma pequena ajuda para quem gosta de aprender programação. Este minicurso tenta ensinar o básico do javascript (JVS)
+
+![](https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog) 
