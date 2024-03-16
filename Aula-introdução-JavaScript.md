@@ -18,3 +18,12 @@ var nome = "João";
 let idade = 25;
 const PI = 3.14;
 ```
+
+**Tipos de Dados**: JavaScript possui diversos tipos de dados, incluindo números, strings, booleanos, arrays, objetos, entre outros. Por exemplo:
+```
+let numero = 10;
+let texto = "Olá, mundo!";
+let verdadeiro = true;
+let lista = [1, 2, 3, 4, 5];
+let pessoa = { nome: "Maria", idade: 30 };
+```
