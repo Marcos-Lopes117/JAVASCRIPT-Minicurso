@@ -10,7 +10,7 @@ Ao longo deste processo de aprendizado, iremos cobrir desde os conceitos básico
 
 ## Está pronto para começar a sua jornada de aprendizado em JavaScript? 🚀
 
-** 1 - Conceitos Básicos e sintaxe **
+**1 - Conceitos Básicos e sintaxe**
 
 **Variáveis**: Em JavaScript, você pode declarar variáveis usando as palavras-chave var, let ou const. Por exemplo:
 ```
