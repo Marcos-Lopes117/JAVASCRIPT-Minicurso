@@ -18,6 +18,9 @@ var nome = "João";
 let idade = 25;
 const PI = 3.14;
 ```
+Faça o teste no [playcode](https://playcode.io/javascript)
+
+##  
 
 **Tipos de Dados**: JavaScript possui diversos tipos de dados, incluindo números, strings, booleanos, arrays, objetos, entre outros. Por exemplo:
 ```
@@ -27,3 +30,7 @@ let verdadeiro = true;
 let lista = [1, 2, 3, 4, 5];
 let pessoa = { nome: "Maria", idade: 30 };
 ```
+Faça o teste no [playcode](https://playcode.io/javascript)
+
+##  
+
