@@ -8,7 +8,10 @@ Uma das principais características do JavaScript é sua capacidade de manipular
 Além disso, JavaScript é uma linguagem de programação orientada a objetos, o que significa que você pode criar objetos e classes para organizar e estruturar seu código de forma mais eficiente.
 Ao longo deste processo de aprendizado, iremos cobrir desde os conceitos básicos até técnicas mais avançadas, explorando diferentes aspectos da linguagem JavaScript e mostrando como aplicá-los na prática.  
 
+
 ## Está pronto para começar a sua jornada de aprendizado em JavaScript? 🚀
+
+
 
 **1 - Conceitos Básicos e sintaxe**
 
