@@ -21,7 +21,7 @@ var nome = "João";
 let idade = 25;
 const PI = 3.14;
 ```
-Copie o código e faça o teste no [playcode](https://playcode.io/javascript)
+Copie o código e faça o teste no [compilador](https://onecompiler.com/javascript).
 
 ##  
 
@@ -33,7 +33,7 @@ let verdadeiro = true;
 let lista = [1, 2, 3, 4, 5];
 let pessoa = { nome: "Maria", idade: 30 };
 ```
-Copie o código e faça o teste no [playcode](https://playcode.io/javascript)
+Copie o código e faça o teste no [compilador](https://onecompiler.com/javascript).
 
 ##  
 
@@ -45,7 +45,7 @@ let eLogico = (true && false); // false
 let atribuicao = 10;
 atribuicao += 5; // atribuicao agora é 15
 ```
-Copie o código e faça o teste no [playcode](https://playcode.io/javascript)
+Copie o código e faça o teste no [compilador](https://onecompiler.com/javascript).
 
 ##  
 
@@ -63,7 +63,7 @@ for (let i = 0; i < 5; i++) {
     console.log("Número: " + i);
 }
 ```
-Copie o código e faça o teste no [playcode](https://playcode.io/javascript)
+Copie o código e faça o teste no [compilador](https://onecompiler.com/javascript).
 
 ##  
 
