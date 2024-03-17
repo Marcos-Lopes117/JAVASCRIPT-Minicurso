@@ -1,4 +1,4 @@
-## Introdução
+## <h1>Introdução</h1>
 
 JavaScript é uma linguagem de programação poderosa e versátil, amplamente utilizada no desenvolvimento web. Ela permite que você crie páginas interativas e dinâmicas, adicionando comportamentos aos elementos HTML, manipulando o conteúdo da página e interagindo com o usuário.  
 
