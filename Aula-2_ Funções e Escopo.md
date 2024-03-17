@@ -20,13 +20,17 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 
 ##  
 
-**Tipos de Dados**: JavaScript possui diversos tipos de dados, incluindo números, strings, booleanos, arrays, objetos, entre outros. Por exemplo:
+
+<img src="/img/func2.png">
+
+**Parâmetros e Argumentos**: Você pode passar informações para uma função usando parâmetros. Por exemplo:
 ```
-let numero = 10;
-let texto = "Olá, mundo!";
-let verdadeiro = true;
-let lista = [1, 2, 3, 4, 5];
-let pessoa = { nome: "Maria", idade: 30 };
+function saudar(nome) {
+    console.log("Olá, " + nome + "!");
+}
+
+saudar("Ana"); // Passando "Ana" como argumento
+
 ```
 Copie o código e faça o teste no [compilador](https://onecompiler.com/javascript).
 
