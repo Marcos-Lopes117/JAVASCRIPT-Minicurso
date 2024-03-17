@@ -36,32 +36,63 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 
 ##  
 
-**Operadores**: JavaScript suporta uma variedade de operadores, incluindo aritméticos, de comparação, lógicos e de atribuição. Por exemplo:
+**Retorno de Função**: As funções podem retornar valores usando a palavra-chave return. Por exemplo:
 ```
-let soma = 10 + 5;
-let igualdade = (5 === 5); // true
-let eLogico = (true && false); // false
-let atribuicao = 10;
-atribuicao += 5; // atribuicao agora é 15
+function somar(a, b) {
+    return a + b;
+}
+
+let resultado = somar(3, 5);
+console.log(resultado);
+// Saída: 8
+
 ```
 Copie o código e faça o teste no [compilador](https://onecompiler.com/javascript).
 
 ##  
 
-**Estruturas de Controle**: JavaScript oferece estruturas de controle como if, else, switch, for, while e do-while para controlar o fluxo do programa. Por exemplo:
+**Escopo de Variáveis**: Em JavaScript, as variáveis podem ter escopo global ou escopo local. Variáveis declaradas dentro de uma função têm escopo local, enquanto variáveis declaradas fora de todas as funções têm escopo global. Por exemplo:
 ```
-let idade = 18;
+let global = "Variável global";
 
-if (idade >= 18) {
-    console.log("Você é maior de idade.");
-} else {
-    console.log("Você é menor de idade.");
+function teste() {
+    let local = "Variável local";
+    console.log(local);
+    console.log(global);
 }
 
-for (let i = 0; i < 5; i++) {
-    console.log("Número: " + i);
-}
+teste();
+// Saída: "Variável local" e "Variável global"
+console.log(local);
+// Erro: local is not defined
+
 ```
 Copie o código e faça o teste no [compilador](https://onecompiler.com/javascript).
 
 ##  
+
+
+**Funções Anônimas e Arrow Functions**:  Além da declaração tradicional de funções, você pode criar funções anônimas e usar arrow functions. Por exemplo:
+```
+// Função anônima
+let saudacao = function() {
+    console.log("Olá, mundo!");
+};
+
+// Arrow function
+let quadrado = (x) => {
+    return x * x;
+};
+
+saudacao(); // Saída: "Olá, mundo!"
+console.log(quadrado(3)); // Saída: 9
+
+```
+Copie o código e faça o teste no [compilador](https://onecompiler.com/javascript).
+
+##  
+
+
+Esses são os conceitos básicos de funções e escopo em JavaScript. Na próxima aula, vamos explorar objetos e arrays, que são fundamentais para a programação em JavaScript. Continue para próxima aula.
+
+
