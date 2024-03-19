@@ -45,7 +45,7 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 
 ##  
 
-Métodos de Manipulação de Datas: O objeto Date possui diversos métodos para manipular datas, como getFullYear(), getMonth(), getDate(), getDay(), getHours(), getMinutes(), getSeconds(), entre outros. Por exemplo:
+**Métodos de Manipulação de Datas**: O objeto Date possui diversos métodos para manipular datas, como getFullYear(), getMonth(), getDate(), getDay(), getHours(), getMinutes(), getSeconds(), entre outros. Por exemplo:
 ```
 let hoje = new Date();
 console.log(hoje.getFullYear()); // Ano atual
