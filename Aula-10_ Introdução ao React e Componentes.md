@@ -23,7 +23,6 @@ botao.addEventListener("click", function() {
 });
 
 ```
-Copie o código e faça o teste no [compilador](https://onecompiler.com/javascript).
 
 ##  
 
@@ -40,7 +39,6 @@ class MeuComponente extends Component {
 }
 
 ```
-Copie o código e faça o teste no [compilador](https://onecompiler.com/javascript).
 
 ##  
 
@@ -53,7 +51,6 @@ import MeuComponente from './MeuComponente';
 
 ReactDOM.render(<MeuComponente />, document.getElementById('root'));
 ```
-Copie o código e faça o teste no [compilador](https://onecompiler.com/javascript).
 
 ##  
 
