@@ -3,7 +3,7 @@
 
 Nesta décima segunda aula, vamos aprender como lidar com formulários em React e como realizar validação de entrada de dados. Formulários são uma parte essencial de muitas aplicações web, e React oferece maneiras convenientes de trabalhar com eles.
 
-## Essa parte facilita muito a vida do DEV! .
+## Essa parte facilita muito a vida do DEV
 
 
 **Controlando Componentes de Formulário**: Em React, os componentes de formulário, como <input>, <textarea> e <select>, são controlados, o que significa que o estado deles é controlado pelo React. Para isso, você deve usar o estado do componente para armazenar e atualizar os valores dos campos do formulário. Por exemplo:
