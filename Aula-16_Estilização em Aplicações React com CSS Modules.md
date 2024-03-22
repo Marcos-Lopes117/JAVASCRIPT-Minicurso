@@ -1,5 +1,5 @@
 
-## <h1> Estilização em Aplicações React com CSS Modules <h1>
+## <h1> Estilização em Aplicações React com CSS Modules </h1>
 
 
 Nesta décima sexta aula, vamos explorar outra abordagem para estilização em aplicações React utilizando CSS Modules. Os CSS Modules permitem escopar estilos CSS para cada componente individualmente, evitando conflitos de estilos e facilitando a manutenção do código.
