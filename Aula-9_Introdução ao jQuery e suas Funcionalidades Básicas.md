@@ -10,7 +10,7 @@ Nesta nona aula, vamos introduzir o jQuery, uma biblioteca JavaScript popular qu
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
 ```
-Copie o código e faça o teste no [compilador](https://onecompiler.com/javascript).
+
 
 ##  
 
@@ -28,7 +28,6 @@ let elementos = $(".minhaClasse");
 let paragrafos = $("p");
 
 ```
-Copie o código e faça o teste no [compilador](https://onecompiler.com/javascript).
 
 ##  
 
@@ -45,7 +44,7 @@ $(".meuElemento").addClass("minhaClasse");
 $("#minhaDiv").hide();
 
 ```
-Copie o código e faça o teste no [compilador](https://onecompiler.com/javascript).
+
 
 ##  
 
@@ -61,7 +60,7 @@ $("#meuBotao").click(function() {
 $("#meuBotao").off("click");
 
 ```
-Copie o código e faça o teste no [compilador](https://onecompiler.com/javascript).
+
 
 ##  
 
@@ -72,7 +71,6 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 $("#minhaDiv").fadeIn();
 
 ```
-Copie o código e faça o teste no [compilador](https://onecompiler.com/javascript).
 
 ##  
 
