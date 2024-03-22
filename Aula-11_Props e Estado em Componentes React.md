@@ -20,7 +20,6 @@ function Filho(props) {
 }
 
 ```
-Copie o código e faça o teste no [compilador](https://onecompiler.com/javascript).
 
 ##  
 
@@ -51,7 +50,6 @@ class Contador extends Component {
 }
 
 ```
-Copie o código e faça o teste no [compilador](https://onecompiler.com/javascript).
 
 ##  
 
@@ -64,7 +62,7 @@ this.setState((prevState) => {
 });
 
 ```
-Copie o código e faça o teste no [compilador](https://onecompiler.com/javascript).
+
 
 ##  
 
@@ -85,7 +83,7 @@ function Filho(props) {
 }
 
 ```
-Copie o código e faça o teste no [compilador](https://onecompiler.com/javascript).
+
 
 ##  
 
