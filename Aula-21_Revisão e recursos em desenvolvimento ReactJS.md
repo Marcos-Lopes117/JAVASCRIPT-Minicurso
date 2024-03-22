@@ -1,7 +1,7 @@
 ## <h1>Revisão e Recursos Adicionais em Desenvolvimento React</h1>
 
 
-**Ultima aula, parabéns se chegou até aqui! 
+ACABAMOS POR AQUI! ÓTIMA JORNADA!
 ##
 
 
