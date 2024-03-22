@@ -6,7 +6,8 @@ Nesta décima segunda aula, vamos aprender como lidar com formulários em React 
 ## Essa parte facilita muito a vida do DEV
 
 
-**Controlando Componentes de Formulário**: Em React, os componentes de formulário, como <input>, <textarea> e <select>, são controlados, o que significa que o estado deles é controlado pelo React. Para isso, você deve usar o estado do componente para armazenar e atualizar os valores dos campos do formulário. Por exemplo:
+**Controlando Componentes de Formulário**: Em React, os componentes de formulário, como input, textarea e select, são controlados, o que significa que o estado deles é controlado pelo React. Para isso, você deve usar o estado do componente para armazenar e atualizar os valores dos campos do formulário. Por exemplo:
+
 ```
 import React, { useState } from 'react';
 
