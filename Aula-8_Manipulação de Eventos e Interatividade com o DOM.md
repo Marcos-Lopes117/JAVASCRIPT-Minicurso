@@ -14,7 +14,7 @@ botao.addEventListener("click", function() {
 });
 
 ```
-Copie o código e faça o teste no [compilador](https://onecompiler.com/javascript).
+
 
 ##  
 
@@ -28,7 +28,7 @@ botao.addEventListener("click", function(event) {
 });
 
 ```
-Copie o código e faça o teste no [compilador](https://onecompiler.com/javascript).
+
 
 ##  
 
@@ -40,7 +40,7 @@ for (let i = 0; i < paragrafos.length; i++) {
     paragrafos[i].style.color = "blue";
 }
 ```
-Copie o código e faça o teste no [compilador](https://onecompiler.com/javascript).
+
 
 ##  
 
@@ -52,7 +52,7 @@ titulo.textContent = "Novo Título"; // Modifica o texto do elemento
 titulo.style.color = "red"; // Modifica a cor do texto
 
 ```
-Copie o código e faça o teste no [compilador](https://onecompiler.com/javascript).
+
 
 ##  
 
@@ -63,7 +63,7 @@ document.addEventListener("DOMContentLoaded", function() {
     console.log("Documento HTML carregado!");
 });
 ```
-Copie o código e faça o teste no [compilador](https://onecompiler.com/javascript).
+
 
 ##  
 
