@@ -6,6 +6,7 @@ Na décima sétima aula, vamos aprender como criar aplicações React responsiva
 
 
 **Instalação do Material-UI**: Para começar a usar o Material-UI em seu projeto React, você precisa instalá-lo usando npm ou yarn. Por exemplo:
+
 _Bash
 ```
 npm install @mui/material @emotion/react @emotion/styled
