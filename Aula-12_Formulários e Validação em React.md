@@ -31,7 +31,7 @@ function Formulario() {
     );
 }
 ```
-Copie o código e faça o teste no [compilador](https://onecompiler.com/javascript).
+
 
 ##  
 
@@ -69,7 +69,7 @@ function Formulario() {
 }
 
 ```
-Copie o código e faça o teste no [compilador](https://onecompiler.com/javascript).
+
 
 ##  
 
