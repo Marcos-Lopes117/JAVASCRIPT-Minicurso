@@ -7,7 +7,10 @@ Uma função em JavaScript é um bloco de código que realiza uma tarefa especí
 
 <img src="/img/func1.png">
 
-**Declaração de Funções**: Você pode declarar funções em JavaScript usando a palavra-chave function. Por exemplo:
+##  **Declaração de Funções**: 
+
+
+Você pode declarar funções em JavaScript usando a palavra-chave function. Por exemplo:
 ```
 
 function saudacao() {
@@ -23,9 +26,12 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 ##  
 
 
+
+## **Parâmetros e Argumentos**: 
 <img src="/img/func2.png">
 
-**Parâmetros e Argumentos**: Você pode passar informações para uma função usando parâmetros. Por exemplo:
+
+Você pode passar informações para uma função usando parâmetros. Por exemplo:
 ```
 function saudar(nome) {
     console.log("Olá, " + nome + "!");
@@ -38,7 +44,11 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 
 ##  
 
-**Retorno de Função**: As funções podem retornar valores usando a palavra-chave return. Por exemplo:
+
+## **Retorno de Função**: 
+
+
+As funções podem retornar valores usando a palavra-chave return. Por exemplo:
 ```
 function somar(a, b) {
     return a + b;
@@ -53,7 +63,11 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 
 ##  
 
-**Escopo de Variáveis**: Em JavaScript, as variáveis podem ter escopo global ou escopo local. Variáveis declaradas dentro de uma função têm escopo local, enquanto variáveis declaradas fora de todas as funções têm escopo global. Por exemplo:
+
+## **Escopo de Variáveis**: 
+
+
+Em JavaScript, as variáveis podem ter escopo global ou escopo local. Variáveis declaradas dentro de uma função têm escopo local, enquanto variáveis declaradas fora de todas as funções têm escopo global. Por exemplo:
 ```
 let global = "Variável global";
 
@@ -74,7 +88,10 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 ##  
 
 
-**Funções Anônimas e Arrow Functions**:  Além da declaração tradicional de funções, você pode criar funções anônimas e usar arrow functions. Por exemplo:
+## **Funções Anônimas e Arrow Functions**:  
+
+
+Além da declaração tradicional de funções, você pode criar funções anônimas e usar arrow functions. Por exemplo:
 ```
 // Função anônima
 let saudacao = function() {
