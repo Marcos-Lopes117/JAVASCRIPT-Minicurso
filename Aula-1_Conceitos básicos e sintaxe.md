@@ -9,12 +9,14 @@ Além disso, JavaScript é uma linguagem de programação orientada a objetos, o
 Ao longo deste processo de aprendizado, iremos cobrir desde os conceitos básicos até técnicas mais avançadas, explorando diferentes aspectos da linguagem JavaScript e mostrando como aplicá-los na prática.  
 
 
-<h1>Está pronto para começar a sua jornada de aprendizado em JavaScript? 🚀</h1>
+<h3>Está pronto para começar a sua jornada de aprendizado em JavaScript? 🚀</h3>
 
-**1 - Conceitos Básicos e sintaxe**
 
-##**Variáveis**: Em JavaScript, você pode declarar variáveis usando as palavras-chave var, let ou const. 
+<h1>1 - Conceitos Básicos e sintaxe</h1>
 
+## **Variáveis**: 
+
+Em JavaScript, você pode declarar variáveis usando as palavras-chave var, let ou const. 
 Por exemplo:
 ```
 var nome = "João";
@@ -25,8 +27,9 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 
 ##  
 
-##**Tipos de Dados**: JavaScript possui diversos tipos de dados, incluindo números, strings, booleanos, arrays, objetos, entre outros.
+## **Tipos de Dados**: 
 
+JavaScript possui diversos tipos de dados, incluindo números, strings, booleanos, arrays, objetos, entre outros.
 Por exemplo:
 ```
 let numero = 10;
@@ -39,8 +42,10 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 
 ##  
 
-##**Operadores**: JavaScript suporta uma variedade de operadores, incluindo aritméticos, de comparação, lógicos e de atribuição. 
+## **Operadores**: 
 
+
+JavaScript suporta uma variedade de operadores, incluindo aritméticos, de comparação, lógicos e de atribuição. 
 Por exemplo:
 ```
 let soma = 10 + 5;
@@ -53,9 +58,10 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 
 ##  
 
-##**Estruturas de Controle**: JavaScript oferece estruturas de controle como if, else, switch, for, while e do-while para controlar o fluxo do programa. 
+## **Estruturas de Controle**: 
 
 
+JavaScript oferece estruturas de controle como if, else, switch, for, while e do-while para controlar o fluxo do programa. 
 Por exemplo:
 ```
 let idade = 18;
