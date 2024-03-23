@@ -2,10 +2,12 @@
 
 Nesta quarta aula, vamos aprofundar nossos conhecimentos sobre manipulação de arrays e objetos em JavaScript. Vamos explorar como adicionar, remover e iterar sobre elementos em arrays, assim como adicionar, remover e atualizar propriedades em objetos.
 
-## Seu conhecimento já está se tornando avançado, prossiga!.
+ <h3> Seu conhecimento já está se tornando avançado, prossiga!. </h3>
+
+##  **Adição de Elementos em Arrays**: 
 
 
-**Adição de Elementos em Arrays**: Você pode adicionar elementos a um array usando métodos como push(), unshift() ou atribuindo diretamente a um índice específico. Por exemplo:
+Você pode adicionar elementos a um array usando métodos como push(), unshift() ou atribuindo diretamente a um índice específico. Por exemplo:
 ```
 let numeros = [1, 2, 3];
 numeros.push(4); // Adiciona 4 ao final do array
@@ -18,7 +20,10 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 ##  
 
 
-**Remoção de Elementos em Arrays**:  Você pode remover elementos de um array usando métodos como pop(), shift() ou splice(). Por exemplo:
+## **Remoção de Elementos em Arrays**:  
+
+
+Você pode remover elementos de um array usando métodos como pop(), shift() ou splice(). Por exemplo:
 ```
 let numeros = [1, 2, 3, 4, 5];
 numeros.pop(); // Remove o último elemento (5)
@@ -30,7 +35,11 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 
 ##  
 
-**Iteração sobre Arrays**:  Você pode iterar sobre os elementos de um array usando loops como for ou métodos como forEach(). Por exemplo:
+
+## **Iteração sobre Arrays**:  
+
+
+Você pode iterar sobre os elementos de um array usando loops como for ou métodos como forEach(). Por exemplo:
 ```
 let numeros = [1, 2, 3, 4, 5];
 for (let i = 0; i < numeros.length; i++) {
@@ -47,7 +56,11 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 
 ##  
 
-**Adição e Atualização de Propriedades em Objetos**: Você pode adicionar novas propriedades a um objeto simplesmente atribuindo um valor a uma nova chave, e atualizar propriedades existentes atribuindo um novo valor a uma chave existente. Por exemplo:
+
+## **Adição e Atualização de Propriedades em Objetos**: 
+
+
+Você pode adicionar novas propriedades a um objeto simplesmente atribuindo um valor a uma nova chave, e atualizar propriedades existentes atribuindo um novo valor a uma chave existente. Por exemplo:
 ```
 let pessoa = {
     nome: "Marcos",
@@ -63,7 +76,10 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 ##  
 
 
-**Remoção de Propriedades em Objetos**:  Você pode remover propriedades de um objeto usando o operador delete. Por exemplo:
+## **Remoção de Propriedades em Objetos**:  
+
+
+Você pode remover propriedades de um objeto usando o operador delete. Por exemplo:
 ```
 let pessoa = {
     nome: "Marcos",
