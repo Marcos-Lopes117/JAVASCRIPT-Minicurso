@@ -96,7 +96,6 @@
   ➡[Remoção de propriedades em objetos](https://github.com/Marcos-Lopes117/JAVASCRIPT-Minicurso/edit/main/Aula-4_Manipula%C3%A7%C3%A3o%20de%20Arrays%20e%20Objetos.md#remo%C3%A7%C3%A3o-de-propriedades-em-objetos)
 
 
-
 ##
 
 
