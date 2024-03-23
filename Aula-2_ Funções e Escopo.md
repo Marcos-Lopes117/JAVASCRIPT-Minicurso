@@ -9,13 +9,13 @@ Uma função em JavaScript é um bloco de código que realiza uma tarefa especí
 
 **Declaração de Funções**: Você pode declarar funções em JavaScript usando a palavra-chave function. Por exemplo:
 ```
-<script>
+
 function saudacao() {
     console.log("Olá, Bem vindo a Aula 2!");
 }
 
 saudacao(); // Chamando a função
-</script>
+
 
 ```
 Copie o código e faça o teste no [compilador](https://onecompiler.com/javascript).
