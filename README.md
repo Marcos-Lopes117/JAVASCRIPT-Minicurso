@@ -74,26 +74,25 @@
 ##
 
 
-🔵 [4 - Manipulação de arrays e objeto](https://github.com/Marcos-Lopes117/JAVASCRIPT-Minicurso/edit/main/Aula-4_Manipula%C3%A7%C3%A3o%20de%20Arrays%20e%20Objetos.md#manipula%C3%A7%C3%A3o-de-arrays-e-objetos)
+🔵 [4 - Manipulação de arrays e objeto](https://github.com/Marcos-Lopes117/JAVASCRIPT-Minicurso/blob/main/Aula-4_Manipula%C3%A7%C3%A3o%20de%20Arrays%20e%20Objetos.md#manipula%C3%A7%C3%A3o-de-arrays-e-objetos)
 
 
-  ➡[Adição de elementos](https://github.com/Marcos-Lopes117/JAVASCRIPT-Minicurso/edit/main/Aula-4_Manipula%C3%A7%C3%A3o%20de%20Arrays%20e%20Objetos.md#adi%C3%A7%C3%A3o-de-elementos-em-arrays)
-
-
-
-  ➡[remoção de elementos](https://github.com/Marcos-Lopes117/JAVASCRIPT-Minicurso/edit/main/Aula-4_Manipula%C3%A7%C3%A3o%20de%20Arrays%20e%20Objetos.md#remo%C3%A7%C3%A3o-de-elementos-em-arrays)
+  ➡[Adição de elementos](https://github.com/Marcos-Lopes117/JAVASCRIPT-Minicurso/blob/main/Aula-4_Manipula%C3%A7%C3%A3o%20de%20Arrays%20e%20Objetos.md#adi%C3%A7%C3%A3o-de-elementos-em-arrays)
 
 
 
-  ➡[Iteração sobre arrays](https://github.com/Marcos-Lopes117/JAVASCRIPT-Minicurso/edit/main/Aula-4_Manipula%C3%A7%C3%A3o%20de%20Arrays%20e%20Objetos.md#itera%C3%A7%C3%A3o-sobre-arrays)
+  ➡[remoção de elementos](https://github.com/Marcos-Lopes117/JAVASCRIPT-Minicurso/blob/main/Aula-4_Manipula%C3%A7%C3%A3o%20de%20Arrays%20e%20Objetos.md#remo%C3%A7%C3%A3o-de-elementos-em-arrays)
 
 
 
-  ➡[Adição e atualização de propriedades de objetos](https://github.com/Marcos-Lopes117/JAVASCRIPT-Minicurso/edit/main/Aula-4_Manipula%C3%A7%C3%A3o%20de%20Arrays%20e%20Objetos.md#adi%C3%A7%C3%A3o-e-atualiza%C3%A7%C3%A3o-de-propriedades-em-objetos)
+  ➡[Iteração sobre arrays](https://github.com/Marcos-Lopes117/JAVASCRIPT-Minicurso/blob/main/Aula-4_Manipula%C3%A7%C3%A3o%20de%20Arrays%20e%20Objetos.md#itera%C3%A7%C3%A3o-sobre-arrays)
 
 
 
-  ➡[Remoção de propriedades em objetos](https://github.com/Marcos-Lopes117/JAVASCRIPT-Minicurso/edit/main/Aula-4_Manipula%C3%A7%C3%A3o%20de%20Arrays%20e%20Objetos.md#remo%C3%A7%C3%A3o-de-propriedades-em-objetos)
+  ➡[Adição e atualização de propriedades de objetos](https://github.com/Marcos-Lopes117/JAVASCRIPT-Minicurso/blob/main/Aula-4_Manipula%C3%A7%C3%A3o%20de%20Arrays%20e%20Objetos.md#adi%C3%A7%C3%A3o-e-atualiza%C3%A7%C3%A3o-de-propriedades-em-objetos)
+
+
+  ➡[Remoção de propriedades em objetos](https://github.com/Marcos-Lopes117/JAVASCRIPT-Minicurso/blob/main/Aula-4_Manipula%C3%A7%C3%A3o%20de%20Arrays%20e%20Objetos.md#remo%C3%A7%C3%A3o-de-propriedades-em-objetos)
 
 
 ##
