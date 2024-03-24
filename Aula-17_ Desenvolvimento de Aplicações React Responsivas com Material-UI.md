@@ -30,7 +30,7 @@ yarn add @mui/material @emotion/react @emotion/styled
 
 
 Após a instalação, você pode começar a usar os componentes do Material-UI em seu aplicativo React. Por exemplo, para usar um botão, você pode importar o componente Button e usá-lo em seu código:
-```
+```javascript
 import Button from '@mui/material/Button';
 
 function MeuComponente() {
