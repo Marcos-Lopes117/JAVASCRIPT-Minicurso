@@ -4,7 +4,7 @@ Na décima nona aula, vamos aprender como proteger rotas autenticadas em aplica�
 ##
 
 
-**Criação de Componente de Rota Protegida**: 
+## **Criação de Componente de Rota Protegida**: 
 
 
 Para proteger uma rota em sua aplicação React, você pode criar um componente de rota protegida que verifica se o usuário está autenticado antes de renderizar o componente da rota. Por exemplo:
