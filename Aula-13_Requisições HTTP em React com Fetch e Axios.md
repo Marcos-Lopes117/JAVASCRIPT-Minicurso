@@ -7,7 +7,7 @@ Nesta décima terceira aula, vamos explorar como fazer requisições HTTP em apl
 
 
 O Fetch API é uma interface JavaScript moderna para fazer requisições HTTP. Ela fornece uma maneira simples e poderosa de buscar recursos da web e enviar dados para servidores. Por exemplo:
-```
+```javascript
   fetch('https://api.example.com/data')
     .then(response => response.json())
     .then(data => console.log(data))
@@ -22,7 +22,7 @@ O Fetch API é uma interface JavaScript moderna para fazer requisições HTTP. E
 
 
 Como as requisições HTTP são assíncronas, é necessário lidar com as respostas usando Promises ou async/await para garantir que o código seja executado corretamente. Por exemplo:
-```
+```javascript
 async function fetchData() {
     try {
         const response = await fetch('https://api.example.com/data');
@@ -43,7 +43,7 @@ fetchData();
 
 
 O Axios é uma biblioteca JavaScript amplamente utilizada para fazer requisições HTTP em navegadores e no Node.js. Ele fornece uma API mais amigável e intuitiva em comparação com o Fetch API. Por exemplo:##  
-```
+```javascript
 import axios from 'axios';
 
 axios.get('https://api.example.com/data')
@@ -59,7 +59,7 @@ axios.get('https://api.example.com/data')
 
 
 Além de buscar dados, você também pode enviar dados para um servidor usando o método POST. Com o Fetch API ou Axios, você pode enviar dados em formato JSON ou formulário. Por exemplo:
-```
+```javascript
 const data = { nome: 'João', idade: 30 };
 
 axios.post('https://api.example.com/dados', data)
