@@ -23,7 +23,7 @@ yarn add react-router-dom
 
 
 Após a instalação, você pode começar a configurar as rotas em sua aplicação React. O React Router fornece componentes como BrowserRouter, Route e Switch para definir e renderizar as rotas. Por exemplo:
-```
+```javascript
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import Home from './components/Home';
 import Sobre from './components/Sobre';
@@ -50,7 +50,7 @@ function App() {
 
 
 Para criar links de navegação entre as rotas, você pode usar o componente Link fornecido pelo React Router. Isso permite que os usuários naveguem entre diferentes visualizações de forma suave e sem recarregar a página. Por exemplo:
-```
+```javascript
 import { Link } from 'react-router-dom';
 
 function Menu() {
@@ -73,7 +73,7 @@ function Menu() {
 
 
 Você pode passar parâmetros para suas rotas para torná-las dinâmicas. Por exemplo, você pode ter uma rota para exibir detalhes de um item específico em sua aplicação. Por exemplo:##
-```
+```javascript
 <Route path="/produto/:id" component={DetalhesProduto} />
 
 ```
