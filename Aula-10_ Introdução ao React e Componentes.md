@@ -23,7 +23,7 @@ Um componente em React é uma parte isolada e reutilizável de uma interface de 
 
 
 Um componente funcional é uma função JavaScript que retorna elementos JSX (JavaScript XML), descrevendo a aparência do componente. Por exemplo:
-```
+```javascript
 let botao = document.getElementById("meuBotao");
 botao.addEventListener("click", function() {
     console.log("O botão foi clicado!");
@@ -37,7 +37,7 @@ botao.addEventListener("click", function() {
 
 
 Um componente de classe é uma classe JavaScript que estende a classe React.Component e implementa um método render() para retornar elementos JSX. Por exemplo:
-```
+```javascript
 import React, { Component } from 'react';
 
 class MeuComponente extends Component {
@@ -55,7 +55,7 @@ class MeuComponente extends Component {
 
 
 Para renderizar um componente React, você pode usar o método ReactDOM.render(), fornecendo o componente e o elemento DOM onde deseja renderizá-lo. Por exemplo:
-```
+```javascript
 import React from 'react';
 import ReactDOM from 'react-dom';
 import MeuComponente from './MeuComponente';
