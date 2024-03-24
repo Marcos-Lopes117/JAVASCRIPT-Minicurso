@@ -22,7 +22,7 @@ yarn add styled-components
 
 
 Após a instalação, você pode começar a usar o styled-components para estilizar seus componentes React. Você pode criar um componente estilizado usando a função styled e passando o elemento HTML desejado. Por exemplo:
-```
+```javascript
 import styled from 'styled-components';
 
 const Botao = styled.button`
@@ -45,7 +45,7 @@ function MeuComponente() {
 
 
 O styled-components permite passar props para seus componentes estilizados e usar essas props para estilização condicional. Isso é útil para criar componentes reutilizáveis com diferentes estilos. Por exemplo:
-```
+```javascript
 const Botao = styled.button`
     background-color: ${props => props.primary ? '#007bff' : '#ffffff'};
     color: ${props => props.primary ? '#ffffff' : '#007bff'};
