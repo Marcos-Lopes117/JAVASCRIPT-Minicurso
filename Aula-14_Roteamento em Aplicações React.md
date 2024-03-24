@@ -7,6 +7,7 @@ Nesta décima quarta aula, vamos aprender sobre roteamento em aplicações React
 
 ## **Instalação do React Router**: 
 
+
 Antes de começar a usar o React Router, é necessário instalá-lo em seu projeto React. Você pode instalar o React Router DOM usando npm ou yarn. Por exemplo:
 ```
 npm install react-router-dom
@@ -15,7 +16,6 @@ ou
 ```
 yarn add react-router-dom
 ```
-
 ##  
 
 
