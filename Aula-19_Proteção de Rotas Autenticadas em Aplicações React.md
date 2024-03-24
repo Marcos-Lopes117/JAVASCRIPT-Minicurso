@@ -56,7 +56,10 @@ Quando um usuário tenta acessar uma rota protegida sem estar autenticado, ele �
 ##
 
 
-**Atualização do Estado de Autenticação**: Para garantir que o estado de autenticação seja atualizado corretamente após o login ou logout do usuário, é importante implementar uma lógica para atualizar o estado de autenticação em toda a aplicação.
+## **Atualização do Estado de Autenticação**: 
+
+
+Para garantir que o estado de autenticação seja atualizado corretamente após o login ou logout do usuário, é importante implementar uma lógica para atualizar o estado de autenticação em toda a aplicação.
 ##
 
 
