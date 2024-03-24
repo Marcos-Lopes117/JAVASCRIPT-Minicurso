@@ -9,7 +9,7 @@ Nesta décima segunda aula, vamos aprender como lidar com formulários em React 
 
 
 Em React, os componentes de formulário, como input, textarea e select, são controlados, o que significa que o estado deles é controlado pelo React. Para isso, você deve usar o estado do componente para armazenar e atualizar os valores dos campos do formulário. Por exemplo:
-```
+```javascript
 import React, { useState } from 'react';
 
 function Formulario() {
@@ -39,7 +39,7 @@ function Formulario() {
 
 
 Em muitos casos, é necessário validar os dados inseridos pelos usuários antes de enviá-los para o servidor. Você pode realizar validação de entrada de dados em React usando condicionais para verificar se os dados são válidos ou não. Por exemplo:
-```
+```javascript
 import React, { useState } from 'react';
 
 function Formulario() {
