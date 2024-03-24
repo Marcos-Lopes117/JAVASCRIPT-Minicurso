@@ -98,6 +98,58 @@
 ##
 
 
+🔵 [5 - Funções Avançadas de Array](https://github.com/Marcos-Lopes117/JAVASCRIPT-Minicurso/blob/main/Aula-5_%20Fun%C3%A7%C3%B5es%20Avan%C3%A7adas%20de%20Array.md#fun%C3%A7%C3%B5es-avan%C3%A7adas-de-array)
+
+
+  ➡[Map()](https://github.com/Marcos-Lopes117/JAVASCRIPT-Minicurso/blob/main/Aula-5_%20Fun%C3%A7%C3%B5es%20Avan%C3%A7adas%20de%20Array.md#map)
+
+
+
+  ➡[Filter()](https://github.com/Marcos-Lopes117/JAVASCRIPT-Minicurso/blob/main/Aula-5_%20Fun%C3%A7%C3%B5es%20Avan%C3%A7adas%20de%20Array.md#filter)
+
+
+
+  ➡[Reduce()](https://github.com/Marcos-Lopes117/JAVASCRIPT-Minicurso/blob/main/Aula-5_%20Fun%C3%A7%C3%B5es%20Avan%C3%A7adas%20de%20Array.md#reduce)
+
+
+
+  ➡[Métodos Encadeados](https://github.com/Marcos-Lopes117/JAVASCRIPT-Minicurso/blob/main/Aula-5_%20Fun%C3%A7%C3%B5es%20Avan%C3%A7adas%20de%20Array.md#m%C3%A9todos-encadeados)
+
+
+
+##
+
+
+🔵 [6 - Manipulação de Strings e Métodos de String](https://github.com/Marcos-Lopes117/JAVASCRIPT-Minicurso/blob/main/Aula-6_Manipula%C3%A7%C3%A3o%20de%20Strings%20e%20M%C3%A9todos%20de%20String%20.md#manipula%C3%A7%C3%A3o-de-strings-e-m%C3%A9todos-de-string)
+
+
+  ➡[Concatenação de Strings](https://github.com/Marcos-Lopes117/JAVASCRIPT-Minicurso/blob/main/Aula-6_Manipula%C3%A7%C3%A3o%20de%20Strings%20e%20M%C3%A9todos%20de%20String%20.md#concatena%C3%A7%C3%A3o-de-strings)
+
+
+
+  ➡[Tamanho de uma String](https://github.com/Marcos-Lopes117/JAVASCRIPT-Minicurso/blob/main/Aula-6_Manipula%C3%A7%C3%A3o%20de%20Strings%20e%20M%C3%A9todos%20de%20String%20.md#tamanho-de-uma-string)
+
+
+
+  ➡[Acesso a Caracteres](https://github.com/Marcos-Lopes117/JAVASCRIPT-Minicurso/blob/main/Aula-6_Manipula%C3%A7%C3%A3o%20de%20Strings%20e%20M%C3%A9todos%20de%20String%20.md#acesso-a-caracteres)
+
+
+
+  ➡[Métodos Encadeados](https://github.com/Marcos-Lopes117/JAVASCRIPT-Minicurso/blob/main/Aula-6_Manipula%C3%A7%C3%A3o%20de%20Strings%20e%20M%C3%A9todos%20de%20String%20.md#m%C3%A9todos-encadeados)
+
+
+
+ ➡[Métodos de String](https://github.com/Marcos-Lopes117/JAVASCRIPT-Minicurso/blob/main/Aula-6_Manipula%C3%A7%C3%A3o%20de%20Strings%20e%20M%C3%A9todos%20de%20String%20.md#m%C3%A9todos-de-string)
+
+
+
+ ➡[Divisão e Junção de Strings](https://github.com/Marcos-Lopes117/JAVASCRIPT-Minicurso/blob/main/Aula-6_Manipula%C3%A7%C3%A3o%20de%20Strings%20e%20M%C3%A9todos%20de%20String%20.md#divis%C3%A3o-e-jun%C3%A7%C3%A3o-de-strings)
+
+
+
+##
+
+
 🔵 [ - ]()
 
 
@@ -115,6 +167,301 @@
 
   ➡[]()
 
+
+
+##
+
+
+🔵 [ - ]()
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+##
+
+
+🔵 [ - ]()
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+##
+
+
+🔵 [ - ]()
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+##
+
+
+🔵 [ - ]()
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+##
+
+
+🔵 [ - ]()
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+##
+
+
+🔵 [ - ]()
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+##
+
+
+🔵 [ - ]()
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+##
+
+
+🔵 [ - ]()
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+##
+
+
+🔵 [ - ]()
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+##
+
+
+🔵 [ - ]()
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+##
+
+
+🔵 [ - ]()
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+##
+
+
+🔵 [ - ]()
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+##
+
+
+🔵 [ - ]()
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+  ➡[]()
+
+
+
+##
+
+
+🔵 [ - ]()
+
+
+ 
 
 
 ##
