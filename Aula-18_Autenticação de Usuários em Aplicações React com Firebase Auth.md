@@ -23,7 +23,7 @@ yarn add firebase
 
 
 Depois de instalar o Firebase SDK, você precisa inicializar o Firebase em sua aplicação React e configurar a autenticação. Isso geralmente é feito no arquivo de configuração da sua aplicação ou no componente principal. Por exemplo:
-```
+```javascript
 import firebase from 'firebase/app';
 import 'firebase/auth';
 
@@ -46,7 +46,7 @@ const auth = firebase.auth();
 
 
 Com o Firebase configurado, você pode começar a autenticar usuários em sua aplicação React. O Firebase Authentication oferece métodos para criar contas de usuário, fazer login com e-mail e senha, fazer login com provedores de terceiros (como Google, Facebook, etc.) e muito mais. Por exemplo:
-```
+```javascript
 // Criar uma nova conta de usuário com e-mail e senha
 auth.createUserWithEmailAndPassword(email, senha)
     .then((userCredential) => {
