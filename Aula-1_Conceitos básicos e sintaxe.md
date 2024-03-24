@@ -18,7 +18,7 @@ Ao longo deste processo de aprendizado, iremos cobrir desde os conceitos básico
 
 Em JavaScript, você pode declarar variáveis usando as palavras-chave var, let ou const. 
 Por exemplo:
-```
+```javascript
 var nome = "João";
 let idade = 25;
 const PI = 3.14;
@@ -31,7 +31,7 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 
 JavaScript possui diversos tipos de dados, incluindo números, strings, booleanos, arrays, objetos, entre outros.
 Por exemplo:
-```
+```javascript
 let numero = 10;
 let texto = "Olá, mundo!";
 let verdadeiro = true;
@@ -47,7 +47,7 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 
 JavaScript suporta uma variedade de operadores, incluindo aritméticos, de comparação, lógicos e de atribuição. 
 Por exemplo:
-```
+```javascript
 let soma = 10 + 5;
 let igualdade = (5 === 5); // true
 let eLogico = (true && false); // false
@@ -63,7 +63,7 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 
 JavaScript oferece estruturas de controle como if, else, switch, for, while e do-while para controlar o fluxo do programa. 
 Por exemplo:
-```
+```javascript
 let idade = 18;
 
 if (idade >= 18) {
