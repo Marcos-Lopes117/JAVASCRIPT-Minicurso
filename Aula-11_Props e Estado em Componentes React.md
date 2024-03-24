@@ -9,7 +9,7 @@ Nesta décima primeira aula, vamos aprofundar nossos conhecimentos sobre React, 
 ## **Props (Propriedades)**: 
 
 As props são passadas para um componente React como atributos e permitem que você envie dados de um componente pai para um componente filho. As props são somente leitura e não podem ser modificadas pelo componente filho. Por exemplo:
-```
+```javascript
 // Componente pai
 function Pai() {
     return <Filho nome="João" idade={30} />;
@@ -29,7 +29,7 @@ function Filho(props) {
 
 
 O estado é uma característica de um componente React que representa dados mutáveis ​​que afetam a renderização do componente. O estado é gerenciado pelo próprio componente e pode ser alterado usando o método setState(). Por exemplo:
-```
+```javascript
 import React, { Component } from 'react';
 
 class Contador extends Component {
@@ -61,7 +61,7 @@ class Contador extends Component {
 
 
 Ao chamar o método setState(), o React atualiza o estado do componente e re-renderiza o componente para refletir as mudanças. O novo estado pode ser uma nova versão do estado anterior ou derivado do estado anterior. Por exemplo:
-```
+```javascript
 this.setState((prevState) => {
     return { contador: prevState.contador + 1 };
 });
@@ -76,7 +76,7 @@ this.setState((prevState) => {
 
 
 Você pode passar funções como props de um componente pai para um componente filho para permitir que o componente filho atualize o estado do componente pai. Isso é útil para comunicação entre componentes. Por exemplo:
-```
+```javascript
 // Componente pai
 function Pai() {
     const [contador, setContador] = useState(0);
