@@ -23,9 +23,8 @@ var nome = "João";
 let idade = 25;
 const PI = 3.14;
 ```
-Copie o código e faça o teste no [compilador](https://onecompiler.com/javascript).
-
 ##  
+
 
 ## **Tipos de Dados**: 
 
@@ -38,9 +37,8 @@ let verdadeiro = true;
 let lista = [1, 2, 3, 4, 5];
 let pessoa = { nome: "Maria", idade: 30 };
 ```
-Copie o código e faça o teste no [compilador](https://onecompiler.com/javascript).
-
 ##  
+
 
 ## **Operadores**: 
 
