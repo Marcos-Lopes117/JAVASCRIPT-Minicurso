@@ -10,7 +10,7 @@ Expressões regulares são padrões utilizados para encontrar determinados padr�
 
 
 As expressões regulares, também conhecidas como regex, são padrões de texto usados para buscar e substituir partes de uma string. Em JavaScript, você pode criar expressões regulares usando a classe RegExp ou utilizando diretamente a sintaxe literal entre barras (/). Por exemplo:
-```
+```javascript
 let regex = /hello/;
 let texto = "Olá, hello mundo!";
 console.log(regex.test(texto)); // Saída: true
@@ -25,7 +25,7 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 
 
 JavaScript oferece diversos métodos para trabalhar com expressões regulares, como test(), exec(), match(), search() e replace(). Por exemplo:
-```
+```javascript
 let texto = "Olá, mundo!";
 let regex = /mundo/;
 console.log(regex.test(texto)); // Saída: true
@@ -42,7 +42,7 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 
 
 JavaScript possui um objeto embutido chamado Date para trabalhar com datas e horas. Você pode criar um novo objeto Date com a data e hora atuais ou com um valor específico. Por exemplo:
-```
+```javascript
 let dataAtual = new Date();
 console.log(dataAtual); // Saída: Data e hora atual
 
@@ -58,7 +58,7 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 ## **Métodos de Manipulação de Datas**: 
 
 O objeto Date possui diversos métodos para manipular datas, como getFullYear(), getMonth(), getDate(), getDay(), getHours(), getMinutes(), getSeconds(), entre outros. Por exemplo:
-```
+```javascript
 let hoje = new Date();
 console.log(hoje.getFullYear()); // Ano atual
 console.log(hoje.getMonth()); // Mês atual (0-11)
