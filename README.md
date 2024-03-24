@@ -1,10 +1,6 @@
 ## Nosso Glossário JAVASCRIPT 
 Use ou contribua para o projeto! CLONE ESTE REPOSITÓRIO.
 
-
-# <h1> CRUSO JAVASCRIPT - Do Zero ao avançado!</h1>
-
-
 <img src="/img/jvs.gif">
 
 # Este curso tenta ensinar javascript (JVS) e algumas ferramentas.
