@@ -4,7 +4,10 @@ Na décima nona aula, vamos aprender como proteger rotas autenticadas em aplica�
 ##
 
 
-**Criação de Componente de Rota Protegida**: Para proteger uma rota em sua aplicação React, você pode criar um componente de rota protegida que verifica se o usuário está autenticado antes de renderizar o componente da rota. Por exemplo:
+**Criação de Componente de Rota Protegida**: 
+
+
+Para proteger uma rota em sua aplicação React, você pode criar um componente de rota protegida que verifica se o usuário está autenticado antes de renderizar o componente da rota. Por exemplo:
 ```
 import { Route, Redirect } from 'react-router-dom';
 
@@ -31,7 +34,11 @@ function RotaProtegida({ children, ...rest }) {
 ```
 ##
 
-**Uso da Rota Protegida**: Agora você pode usar o componente de rota protegida em suas rotas que exigem autenticação. Por exemplo:
+
+## **Uso da Rota Protegida**: 
+
+
+Agora você pode usar o componente de rota protegida em suas rotas que exigem autenticação. Por exemplo:
 
 ```
 <RotaProtegida path="/minha-rota">
@@ -39,8 +46,13 @@ function RotaProtegida({ children, ...rest }) {
 </RotaProtegida>
 
 ```
+##
 
-**Redirecionamento Após o Login**: Quando um usuário tenta acessar uma rota protegida sem estar autenticado, ele é redirecionado para a página de login. Depois de fazer login com sucesso, é comum redirecionar o usuário de volta para a rota originalmente solicitada. Isso pode ser feito usando a propriedade state do objeto location.
+
+## **Redirecionamento Após o Login**: 
+
+
+Quando um usuário tenta acessar uma rota protegida sem estar autenticado, ele é redirecionado para a página de login. Depois de fazer login com sucesso, é comum redirecionar o usuário de volta para a rota originalmente solicitada. Isso pode ser feito usando a propriedade state do objeto location.
 ##
 
 
