@@ -462,7 +462,7 @@ Use ou contribua para o projeto! CLONE ESTE REPOSITÓRIO.
 ##
 
 
-🔵 [21 - Revisão do aprendizado e agradecimento]()
+🔵 [21 - Revisão do aprendizado e agradecimento](https://github.com/Marcos-Lopes117/JAVASCRIPT-Minicurso/blob/main/Aula-21_Revis%C3%A3o%20e%20recursos%20em%20desenvolvimento%20ReactJS.md#revis%C3%A3o-e-recursos-adicionais-em-desenvolvimento-react)
 
 
 ##
