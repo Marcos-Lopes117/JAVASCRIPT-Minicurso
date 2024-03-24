@@ -10,7 +10,7 @@ Eventos são ações que ocorrem em um documento HTML, como cliques de mouse, pr
 
 
 Para responder a eventos em elementos HTML, usamos os Event Listeners. Eles aguardam por um determinado evento e executam uma função específica quando o evento ocorre. Por exemplo:
-```
+```javascript
 let botao = document.getElementById("meuBotao");
 botao.addEventListener("click", function() {
     console.log("O botão foi clicado!");
@@ -27,7 +27,7 @@ botao.addEventListener("click", function() {
 
 
 Dentro da função do Event Listener, você pode acessar informações sobre o evento que ocorreu usando o objeto event. Por exemplo:
-```
+```javascript
 let botao = document.getElementById("meuBotao");
 botao.addEventListener("click", function(event) {
     console.log("Coordenadas do clique: ", event.clientX, event.clientY);
@@ -41,7 +41,7 @@ botao.addEventListener("click", function(event) {
 
 
 JavaScript permite acessar e manipular elementos HTML usando métodos como getElementById(), getElementsByClassName(), getElementsByTagName() ou querySelector(). Por exemplo:
-```
+```javascript
 let paragrafos = document.getElementsByTagName("p");
 for (let i = 0; i < paragrafos.length; i++) {
     paragrafos[i].style.color = "blue";
@@ -54,7 +54,7 @@ for (let i = 0; i < paragrafos.length; i++) {
 
 
 Além de acessar, podemos modificar o conteúdo, estrutura e estilo dos elementos HTML no DOM. Por exemplo:
-```
+```javascript
 let titulo = document.getElementById("titulo");
 titulo.textContent = "Novo Título"; // Modifica o texto do elemento
 titulo.style.color = "red"; // Modifica a cor do texto
@@ -67,7 +67,7 @@ titulo.style.color = "red"; // Modifica a cor do texto
 
 
 Podemos executar código JavaScript assim que o documento HTML é carregado usando o evento DOMContentLoaded. Por exemplo:
-```
+```javascript
 document.addEventListener("DOMContentLoaded", function() {
     console.log("Documento HTML carregado!");
 });
