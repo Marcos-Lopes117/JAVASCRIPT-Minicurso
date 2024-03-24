@@ -3,10 +3,13 @@
 Nesta quinta aula, vamos explorar funções avançadas de array em JavaScript, como map, filter e reduce. 
 Essas funções são poderosas e permitem manipular e transformar arrays de maneira eficiente.
 
-## Parabéns pelo foco! Continue estudando.
+<h3> Parabéns pelo foco! Continue estudando. </h3>
 
 
-**Map()**: A função map é usada para iterar sobre todos os elementos de um array e aplicar uma função a cada um deles, retornando um novo array com os resultados. Por exemplo:
+## **Map()**: 
+
+
+A função map é usada para iterar sobre todos os elementos de um array e aplicar uma função a cada um deles, retornando um novo array com os resultados. Por exemplo:
 ```
 let numeros = [1, 2, 3, 4, 5];
 let dobrados = numeros.map(function(numero) {
@@ -21,8 +24,10 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 
 
 
-**Filter()**: A função filter é usada para filtrar elementos de um array com base em uma condição especificada em uma função de retorno de chamada. 
-Ela retorna um novo array contendo apenas os elementos que passam no teste. Por exemplo:
+## **Filter()**: 
+
+
+A função filter é usada para filtrar elementos de um array com base em uma condição especificada em uma função de retorno de chamada.  Ela retorna um novo array contendo apenas os elementos que passam no teste. Por exemplo:
 ```
 let numeros = [1, 2, 3, 4, 5];
 let pares = numeros.filter(function(numero) {
@@ -36,7 +41,10 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 ##  
 
 
-**Reduce()**:  A função reduce é usada para reduzir os elementos de um array a um único valor, aplicando uma função acumuladora a partir da esquerda para a direita. Por exemplo:
+## **Reduce()**:  
+
+
+A função reduce é usada para reduzir os elementos de um array a um único valor, aplicando uma função acumuladora a partir da esquerda para a direita. Por exemplo:
 ```
 let numeros = [1, 2, 3, 4, 5];
 let soma = numeros.reduce(function(acumulador, numero) {
@@ -49,7 +57,9 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 
 ##  
 
-**Métodos Encadeados**: Você pode encadear várias chamadas de métodos de array para realizar operações complexas em uma única linha de código. Por exemplo: propriedades existentes atribuindo um novo valor a uma chave existente. Por exemplo:
+## **Métodos Encadeados**: 
+
+Você pode encadear várias chamadas de métodos de array para realizar operações complexas em uma única linha de código. Por exemplo: propriedades existentes atribuindo um novo valor a uma chave existente. Por exemplo:
 ```
 let numeros = [1, 2, 3, 4, 5];
 let resultado = numeros.filter(function(numero) {
