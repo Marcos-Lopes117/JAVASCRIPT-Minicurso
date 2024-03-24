@@ -3,11 +3,13 @@
 Nesta sexta aula, vamos explorar como manipular strings e os principais métodos de string disponíveis em JavaScript. 
 As strings são sequências de caracteres, e JavaScript oferece uma variedade de métodos para manipular e trabalhar com elas.
 
-## Você já está quase no fim do módulo básico, Parabéns DEV. 👌
+<h3> Você já está quase no fim do módulo básico, Parabéns DEV. 👌 </h3>
 
 
-**Concatenação de Strings**: Você pode concatenar strings usando o operador de adição (+) ou o método concat(). Por exemplo:
+## **Concatenação de Strings**: 
 
+
+Você pode concatenar strings usando o operador de adição (+) ou o método concat(). Por exemplo:
 ```
 let nome = "João";
 let sobrenome = "Silva";
@@ -23,7 +25,10 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 
 
 
-**Tamanho de uma String**: Você pode obter o tamanho de uma string usando a propriedade length. Por exemplo:
+## **Tamanho de uma String**: 
+
+
+Você pode obter o tamanho de uma string usando a propriedade length. Por exemplo:
 ```
 let texto = "Esta é uma string.";
 console.log(texto.length); // Saída: 18
@@ -33,17 +38,23 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 ##  
 
 
-**Acesso a Caracteres**: Você pode acessar caracteres individuais em uma string usando a notação de colchetes ([]). Lembre-se de que os índices de string em JavaScript começam em zero. Por exemplo:
+## **Acesso a Caracteres**: 
+
+
+Você pode acessar caracteres individuais em uma string usando a notação de colchetes ([]). Lembre-se de que os índices de string em JavaScript começam em zero. Por exemplo:
 ```
 let texto = "JavaScript";
 console.log(texto[0]); // Saída: "J"
 console.log(texto[4]); // Saída: "S"
 ```
 Copie o código e faça o teste no [compilador](https://onecompiler.com/javascript).
-
 ##  
 
-**Métodos Encadeados**: Você pode encadear várias chamadas de métodos de array para realizar operações complexas em uma única linha de código. Por exemplo: propriedades existentes atribuindo um novo valor a uma chave existente. Por exemplo:
+
+## **Métodos Encadeados**: 
+
+
+Você pode encadear várias chamadas de métodos de array para realizar operações complexas em uma única linha de código. Por exemplo: propriedades existentes atribuindo um novo valor a uma chave existente. Por exemplo:
 ```
 let numeros = [1, 2, 3, 4, 5];
 let resultado = numeros.filter(function(numero) {
@@ -59,7 +70,10 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 ##  
 
 
-**Métodos de String**: JavaScript oferece uma variedade de métodos de string para manipulação, como toUpperCase(), toLowerCase(), slice(), indexOf(), substring(), replace(), entre outros. Por exemplo:
+## **Métodos de String**: 
+
+
+JavaScript oferece uma variedade de métodos de string para manipulação, como toUpperCase(), toLowerCase(), slice(), indexOf(), substring(), replace(), entre outros. Por exemplo:
 ```
 let frase = "JavaScript é incrível!";
 console.log(frase.toUpperCase()); // Saída: "JAVASCRIPT É INCRÍVEL!"
@@ -72,7 +86,10 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 ##  
 
 
-**Divisão e Junção de Strings**: Você pode dividir uma string em substrings usando o método split() e unir substrings em uma única string usando o método join(). Por exemplo:
+## **Divisão e Junção de Strings**: 
+
+
+Você pode dividir uma string em substrings usando o método split() e unir substrings em uma única string usando o método join(). Por exemplo:
 ```
 let lista = "maçã, banana, uva";
 let frutas = lista.split(", ");
