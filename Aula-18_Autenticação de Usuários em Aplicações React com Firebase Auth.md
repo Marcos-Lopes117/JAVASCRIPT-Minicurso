@@ -3,7 +3,11 @@
 Na décima oitava aula, vamos aprender como integrar autenticação de usuários em aplicações React utilizando o Firebase Authentication. O Firebase Authentication é um serviço oferecido pelo Firebase, uma plataforma de desenvolvimento de aplicativos móveis e web desenvolvida pelo Google, que facilita a autenticação de usuários em suas aplicações.
 ##
 
-**Configuração do Firebase**: Antes de começar a utilizar o Firebase Authentication, você precisa configurar um projeto no Firebase Console e obter as credenciais do seu projeto. Após configurar o projeto, você precisa instalar o Firebase SDK em sua aplicação React. Você pode fazer isso executando o seguinte comando no terminal do seu projeto:
+
+## **Configuração do Firebase**: 
+
+
+Antes de começar a utilizar o Firebase Authentication, você precisa configurar um projeto no Firebase Console e obter as credenciais do seu projeto. Após configurar o projeto, você precisa instalar o Firebase SDK em sua aplicação React. Você pode fazer isso executando o seguinte comando no terminal do seu projeto:
 
 ```
 npm install firebase
@@ -14,7 +18,11 @@ yarn add firebase
 ```
 ##
 
-**Configuração da Autenticação**: Depois de instalar o Firebase SDK, você precisa inicializar o Firebase em sua aplicação React e configurar a autenticação. Isso geralmente é feito no arquivo de configuração da sua aplicação ou no componente principal. Por exemplo:
+
+## **Configuração da Autenticação**: 
+
+
+Depois de instalar o Firebase SDK, você precisa inicializar o Firebase em sua aplicação React e configurar a autenticação. Isso geralmente é feito no arquivo de configuração da sua aplicação ou no componente principal. Por exemplo:
 ```
 import firebase from 'firebase/app';
 import 'firebase/auth';
@@ -30,8 +38,14 @@ firebase.initializeApp(firebaseConfig);
 const auth = firebase.auth();
 
 ```
+##
 
-**Autenticação de Usuários**: Com o Firebase configurado, você pode começar a autenticar usuários em sua aplicação React. O Firebase Authentication oferece métodos para criar contas de usuário, fazer login com e-mail e senha, fazer login com provedores de terceiros (como Google, Facebook, etc.) e muito mais. Por exemplo:
+
+
+## **Autenticação de Usuários**: 
+
+
+Com o Firebase configurado, você pode começar a autenticar usuários em sua aplicação React. O Firebase Authentication oferece métodos para criar contas de usuário, fazer login com e-mail e senha, fazer login com provedores de terceiros (como Google, Facebook, etc.) e muito mais. Por exemplo:
 ```
 // Criar uma nova conta de usuário com e-mail e senha
 auth.createUserWithEmailAndPassword(email, senha)
@@ -57,7 +71,10 @@ auth.signInWithEmailAndPassword(email, senha)
 ##
 
 
-**Gerenciamento do Estado de Autenticação**: É importante gerenciar o estado de autenticação em sua aplicação React para mostrar o conteúdo apropriado com base no estado do usuário (autenticado ou não autenticado). Você pode usar o estado local do React ou um gerenciador de estado como Redux para isso.
+## **Gerenciamento do Estado de Autenticação**: 
+
+
+É importante gerenciar o estado de autenticação em sua aplicação React para mostrar o conteúdo apropriado com base no estado do usuário (autenticado ou não autenticado). Você pode usar o estado local do React ou um gerenciador de estado como Redux para isso.
 ##
 
 
