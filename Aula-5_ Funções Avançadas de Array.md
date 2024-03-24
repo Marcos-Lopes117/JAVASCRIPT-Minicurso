@@ -10,7 +10,7 @@ Essas funções são poderosas e permitem manipular e transformar arrays de mane
 
 
 A função map é usada para iterar sobre todos os elementos de um array e aplicar uma função a cada um deles, retornando um novo array com os resultados. Por exemplo:
-```
+```javascript
 let numeros = [1, 2, 3, 4, 5];
 let dobrados = numeros.map(function(numero) {
     return numero * 2;
@@ -28,7 +28,7 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 
 
 A função filter é usada para filtrar elementos de um array com base em uma condição especificada em uma função de retorno de chamada.  Ela retorna um novo array contendo apenas os elementos que passam no teste. Por exemplo:
-```
+```javascript
 let numeros = [1, 2, 3, 4, 5];
 let pares = numeros.filter(function(numero) {
     return numero % 2 === 0; 
@@ -45,7 +45,7 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 
 
 A função reduce é usada para reduzir os elementos de um array a um único valor, aplicando uma função acumuladora a partir da esquerda para a direita. Por exemplo:
-```
+```javascript
 let numeros = [1, 2, 3, 4, 5];
 let soma = numeros.reduce(function(acumulador, numero) {
     return acumulador + numero;
@@ -60,7 +60,7 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 ## **Métodos Encadeados**: 
 
 Você pode encadear várias chamadas de métodos de array para realizar operações complexas em uma única linha de código. Por exemplo: propriedades existentes atribuindo um novo valor a uma chave existente. Por exemplo:
-```
+```javascript
 let numeros = [1, 2, 3, 4, 5];
 let resultado = numeros.filter(function(numero) {
     return numero % 2 === 0;
