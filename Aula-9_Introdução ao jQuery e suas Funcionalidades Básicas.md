@@ -9,9 +9,8 @@ Nesta nona aula, vamos introduzir o jQuery, uma biblioteca JavaScript popular qu
 
 
 Antes de usar o jQuery, você precisa importá-lo no seu documento HTML. Você pode fazer isso incluindo o jQuery de um CDN ou baixando-o localmente e referenciando-o em seu arquivo HTML. Por exemplo:
-```
+```javascript
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-
 ```
 ##  
 
@@ -20,7 +19,7 @@ Antes de usar o jQuery, você precisa importá-lo no seu documento HTML. Você p
 
 
 Assim como no JavaScript puro, você pode selecionar elementos do DOM usando seletores CSS no jQuery. Por exemplo:
-```
+```javascript
 // Selecionando elementos por ID
 let elemento = $("#meuElemento");
 
@@ -39,7 +38,7 @@ let paragrafos = $("p");
 
 
 O jQuery oferece uma variedade de métodos para manipular elementos do DOM, como adicionar, remover ou modificar atributos, estilos, conteúdo e estrutura. Por exemplo:
-```
+```javascript
 // Modificando o conteúdo de um elemento
 $("#meuParagrafo").text("Novo conteúdo");
 
@@ -57,7 +56,7 @@ $("#minhaDiv").hide();
 
 
 O jQuery simplifica a manipulação de eventos, permitindo adicionar e remover manipuladores de eventos de forma fácil e direta. Por exemplo:
-```
+```javascript
 // Adicionando um manipulador de evento de clique
 $("#meuBotao").click(function() {
     alert("Botão clicado!");
@@ -74,7 +73,7 @@ $("#meuBotao").off("click");
 
 
 O jQuery facilita a criação de animações em elementos do DOM, oferecendo uma variedade de métodos para animar propriedades como tamanho, posição, opacidade, entre outras. Por exemplo:
-```
+```javascript
 // Animando a opacidade de um elemento
 $("#minhaDiv").fadeIn();
 
