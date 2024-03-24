@@ -5,7 +5,10 @@ Na décima sétima aula, vamos aprender como criar aplicações React responsiva
 ##
 
 
-**Instalação do Material-UI**: Para começar a usar o Material-UI em seu projeto React, você precisa instalá-lo usando npm ou yarn. Por exemplo:
+## **Instalação do Material-UI**: 
+
+
+Para começar a usar o Material-UI em seu projeto React, você precisa instalá-lo usando npm ou yarn. Por exemplo:
 
 _Bash
 ```
@@ -23,7 +26,10 @@ yarn add @mui/material @emotion/react @emotion/styled
 ##
 
 
-**Uso Básico de Componentes**: Após a instalação, você pode começar a usar os componentes do Material-UI em seu aplicativo React. Por exemplo, para usar um botão, você pode importar o componente Button e usá-lo em seu código:
+## **Uso Básico de Componentes**: 
+
+
+Após a instalação, você pode começar a usar os componentes do Material-UI em seu aplicativo React. Por exemplo, para usar um botão, você pode importar o componente Button e usá-lo em seu código:
 ```
 import Button from '@mui/material/Button';
 
@@ -36,15 +42,24 @@ function MeuComponente() {
 ##
 
 
-**Layout Responsivo com Grid**: O Material-UI fornece um sistema de layout baseado em Grid para criar layouts responsivos em suas aplicações React. Você pode usar os componentes Grid para criar layouts flexíveis e adaptáveis a diferentes dispositivos e tamanhos de tela.
+## **Layout Responsivo com Grid**: 
+
+
+O Material-UI fornece um sistema de layout baseado em Grid para criar layouts responsivos em suas aplicações React. Você pode usar os componentes Grid para criar layouts flexíveis e adaptáveis a diferentes dispositivos e tamanhos de tela.
 ##
 
 
-**Tema Personalizado**: Você pode personalizar o tema do Material-UI para corresponder à identidade visual de sua aplicação. O Material-UI permite personalizar cores, tipografia, espaçamento e outros aspectos do design de sua aplicação de forma fácil e conveniente.
+## **Tema Personalizado**: 
+
+
+Você pode personalizar o tema do Material-UI para corresponder à identidade visual de sua aplicação. O Material-UI permite personalizar cores, tipografia, espaçamento e outros aspectos do design de sua aplicação de forma fácil e conveniente.
 ##
 
 
-**Componentes Avançados**: Além dos componentes básicos de interface do usuário, o Material-UI oferece uma ampla variedade de componentes avançados, como AppBar, Drawer, Table, Tabs e muitos outros, para criar interfaces ricas e interativas em suas aplicações React.
+## **Componentes Avançados**: 
+
+
+Além dos componentes básicos de interface do usuário, o Material-UI oferece uma ampla variedade de componentes avançados, como AppBar, Drawer, Table, Tabs e muitos outros, para criar interfaces ricas e interativas em suas aplicações React.
 ##
 
 
