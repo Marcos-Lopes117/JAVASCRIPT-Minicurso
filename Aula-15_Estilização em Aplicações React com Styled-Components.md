@@ -4,7 +4,10 @@ Nesta décima quinta aula, vamos explorar uma abordagem moderna para estilizaç�
 ##
 
 
-**Instalação do styled-components**: Antes de começar a usar o styled-components, é necessário instalá-lo em seu projeto React. Você pode instalar o styled-components usando npm ou yarn. Por exemplo:
+## **Instalação do styled-components**: 
+
+
+Antes de começar a usar o styled-components, é necessário instalá-lo em seu projeto React. Você pode instalar o styled-components usando npm ou yarn. Por exemplo:
 ```
 npm install styled-components
 ```
@@ -15,7 +18,10 @@ yarn add styled-components
 ##
 
 
-**Uso Básico do styled-components**: Após a instalação, você pode começar a usar o styled-components para estilizar seus componentes React. Você pode criar um componente estilizado usando a função styled e passando o elemento HTML desejado. Por exemplo:
+## **Uso Básico do styled-components**: 
+
+
+Após a instalação, você pode começar a usar o styled-components para estilizar seus componentes React. Você pode criar um componente estilizado usando a função styled e passando o elemento HTML desejado. Por exemplo:
 ```
 import styled from 'styled-components';
 
@@ -35,7 +41,10 @@ function MeuComponente() {
 ##
 
 
-**Passagem de Props para Estilização Condicional**: O styled-components permite passar props para seus componentes estilizados e usar essas props para estilização condicional. Isso é útil para criar componentes reutilizáveis com diferentes estilos. Por exemplo:
+## **Passagem de Props para Estilização Condicional**: 
+
+
+O styled-components permite passar props para seus componentes estilizados e usar essas props para estilização condicional. Isso é útil para criar componentes reutilizáveis com diferentes estilos. Por exemplo:
 ```
 const Botao = styled.button`
     background-color: ${props => props.primary ? '#007bff' : '#ffffff'};
@@ -60,8 +69,10 @@ function MeuComponente() {
 ##
 
 
-**Estilização de Componentes Dinâmicos**: Você também pode estilizar componentes dinâmicos, como componentes com estados diferentes ou componentes que respondem a eventos específicos. O styled-components oferece suporte para isso de forma intuitiva e simples.
+## **Estilização de Componentes Dinâmicos**: 
 
+
+Você também pode estilizar componentes dinâmicos, como componentes com estados diferentes ou componentes que respondem a eventos específicos. O styled-components oferece suporte para isso de forma intuitiva e simples.
 ##
 
 
