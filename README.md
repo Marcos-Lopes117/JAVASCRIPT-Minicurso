@@ -1,4 +1,6 @@
-## 🚧Em Construção.🚧
+## Nosso Glossário JAVASCRIPT 
+Use ou contribua para o projeto!
+<h1 color="RED">CLONE ESTE REPOSITÓRIO</h1>
 
 # <h1> CRUSO JAVASCRIPT - Do Zero ao avançado!</h1>
 
