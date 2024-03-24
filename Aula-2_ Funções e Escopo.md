@@ -11,8 +11,7 @@ Uma função em JavaScript é um bloco de código que realiza uma tarefa especí
 
 
 Você pode declarar funções em JavaScript usando a palavra-chave function. Por exemplo:
-```
-
+```javascript
 function saudacao() {
     console.log("Olá, Bem vindo a Aula 2!");
 }
@@ -32,7 +31,7 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 
 
 Você pode passar informações para uma função usando parâmetros. Por exemplo:
-```
+```javascript
 function saudar(nome) {
     console.log("Olá, " + nome + "!");
 }
@@ -49,7 +48,7 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 
 
 As funções podem retornar valores usando a palavra-chave return. Por exemplo:
-```
+```javascript
 function somar(a, b) {
     return a + b;
 }
@@ -68,7 +67,7 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 
 
 Em JavaScript, as variáveis podem ter escopo global ou escopo local. Variáveis declaradas dentro de uma função têm escopo local, enquanto variáveis declaradas fora de todas as funções têm escopo global. Por exemplo:
-```
+```javascript
 let global = "Variável global";
 
 function teste() {
@@ -92,7 +91,7 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 
 
 Além da declaração tradicional de funções, você pode criar funções anônimas e usar arrow functions. Por exemplo:
-```
+```javascript
 // Função anônima
 let saudacao = function() {
     console.log("Olá, mundo!");
