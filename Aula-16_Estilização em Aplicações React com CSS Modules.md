@@ -17,7 +17,7 @@ Para começar a usar CSS Modules em seu projeto React, você precisa configurar 
 
 
 Para usar os estilos de um arquivo CSS Module em um componente React, você pode importar o arquivo CSS e atribuir as classes definidas a propriedades do objeto. Por exemplo:
-```
+```javascript
 import styles from './MeuComponente.module.css';
 
 function MeuComponente() {
