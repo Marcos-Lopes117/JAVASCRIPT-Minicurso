@@ -8,7 +8,7 @@ Nesta quarta aula, vamos aprofundar nossos conhecimentos sobre manipulação de 
 
 
 Você pode adicionar elementos a um array usando métodos como push(), unshift() ou atribuindo diretamente a um índice específico. Por exemplo:
-```
+```javascript
 let numeros = [1, 2, 3];
 numeros.push(4); // Adiciona 4 ao final do array
 numeros.unshift(0); // Adiciona 0 ao início do array
@@ -24,7 +24,7 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 
 
 Você pode remover elementos de um array usando métodos como pop(), shift() ou splice(). Por exemplo:
-```
+```javascript
 let numeros = [1, 2, 3, 4, 5];
 numeros.pop(); // Remove o último elemento (5)
 numeros.shift(); // Remove o primeiro elemento (1)
@@ -40,7 +40,7 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 
 
 Você pode iterar sobre os elementos de um array usando loops como for ou métodos como forEach(). Por exemplo:
-```
+```javascript
 let numeros = [1, 2, 3, 4, 5];
 for (let i = 0; i < numeros.length; i++) {
     console.log(numeros[i]);
@@ -61,7 +61,7 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 
 
 Você pode adicionar novas propriedades a um objeto simplesmente atribuindo um valor a uma nova chave, e atualizar propriedades existentes atribuindo um novo valor a uma chave existente. Por exemplo:
-```
+```javascript
 let pessoa = {
     nome: "Marcos",
     idade: 34
@@ -80,7 +80,7 @@ Copie o código e faça o teste no [compilador](https://onecompiler.com/javascri
 
 
 Você pode remover propriedades de um objeto usando o operador delete. Por exemplo:
-```
+```javascript
 let pessoa = {
     nome: "Marcos",
     idade: 35
